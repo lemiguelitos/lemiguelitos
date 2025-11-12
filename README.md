@@ -1,23 +1,23 @@
 # lemiguelitos
 <div align="center">
   <h1>✨ Bienvenue dans mon Univers GitHub ✨</h1>
-  <h3>🚀 [Titre ou rôle principal] | 💻 [Domaine d’étude ou spécialité] | ☁️ [Passion ou axe technique]</h3>
+  <h3>🚀 web dev | 💻 sotware engneering | ☁️ creative and optimisation</h3>
 </div>
 
 ---
 
 ## 🌟 À propos de moi
 
-> Salut ! Je suis **Taletsa sonfack miguel daniel**, [ta description rapide — ex : un(e) étudiant(e) passionné(e) par le développement web et les technologies modernes].
+> Salut ! Je suis **Taletsa sonfack miguel daniel**, un étudiant passionné par le développement web et les technologies modernes.
 
 > 🎓 Je poursuis actuellement un **un DUT** à **L'IUT de douala**.
 
-> Mon objectif est de **est de devinir developeur fullstack et pouvoir aminitrer unsystem cloud dans le futur**.
+> Mon objectif est de **devinir developeur fullstack et pouvoir aminitrer un system cloud dans le futur**.
 
 🔥 Je m’intéresse particulièrement à :
-- [Domaine 1 — ex : Développement web moderne]
-- [Domaine 2 — ex : Cloud & automatisation]
-- [Domaine 3 — ex : Cybersécurité, IA, etc.]
+- [ Développement web moderne]
+- [ Cloud & automatisation]
+- [ Cybersécurité, IA, etc.]
 
 ---
 
@@ -63,14 +63,14 @@ J’apprends, je construis et j’améliore mes compétences dans ces domaines �
 ## 🚀 Objectifs à court et moyen terme
 
 🎯 **D’ici 3 mois :**
-- [Objectif 1 — ex : maîtriser Git et GitHub]
-- [Objectif 2 — ex : construire mon premier projet Next.js]
-- [Objectif 3 — ex : apprendre les bases du backend]
+- [ maîtriser Git et GitHub]
+-  [onstruire mon premier projet Next.js]
+- [ apprendre les bases du backend]
 
 🌍 **D’ici 6 à 12 mois :**
-- [Objectif 1 — ex : contribuer à un projet open-source]
-- [Objectif 2 — ex : décrocher mon premier stage ou freelancing]
-- [Objectif 3 — ex : approfondir DevOps / Cloud]
+- [ contribuer à un projet open-source]
+- [ décrocher mon premier stage ou freelancing]
+- [ approfondir DevOps / Cloud]
 
 ---
 
